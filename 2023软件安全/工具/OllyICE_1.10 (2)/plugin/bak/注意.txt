@@ -1,0 +1,4 @@
+若要启用StrongOD.dll，请如下操作：
+1）请将StrongOD.dll复制到plugin目录下。
+2）同时将CmdBar.dll移出，因为StrongOD有CmdBar的功能，两者放一起，界面上会冲突。
+3）建议用原版OllyDBG.EXE
