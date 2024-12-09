@@ -1,1 +1,0 @@
-g++ infect.cpp -o infect.exe
